@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Hanbyeol Shin! 😁</h1>
-<h3 align="center">A passionate Frontend Developer from South Korea!</h3>
+<div>
+<h3 align="center">Hi 👋, I'm Hanbyeol Shin! 😁</h3>
+<h4 align="center">Game Art trained 🎨, Frontend Development inspired 💻, and fueled by imagination 🚀</h4>
+</div>
 
 <h3 align="center">📫 How to reach me</h3>
 <p align="center">
