@@ -1,18 +1,13 @@
-<div>
-<h3 align="center">Hi 👋, I'm Hanbyeol Shin! 😁</h3>
-<h4 align="center">Game Art trained 🎨, Frontend Development inspired 💻, and fueled by imagination 🚀</h4>
-</div>
 
-<h3 align="center">📫 How to reach me</h3>
-<p align="center">
-1star1024cd@gmail.com
-</p>
+# Hi 👋, I'm Hanbyeol Shin! 😁
 
-<h3 align="center">🛠 Languages and Tools</h3>
-<div align="center">
+### Game Art trained 🎨, Frontend Development inspired 💻, and fueled by imagination 🚀
+
+`🛠 Languages and Tools`
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=star1024cd&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</div>
-<p align="center">
+
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
@@ -28,8 +23,12 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
 </p>
 
-<h3 align="center">📊 My Github stats</h3>
-<div align="center">
+
+`📊 My Github stats`
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=star1024cd&show_icons=true&locale=en" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=star1024cd&" alt="GitHub Streak Stats" />
 </div>
+
+`📫How to reach me` 
+<br> 1star1024cd@gmail.com
